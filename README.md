@@ -28,9 +28,11 @@ In order to publish your website you'll need to set up a repository on GitHub to
 
 5. Log in to [GitHub](www.github.com). In the top right corner of the page you should see a plus sign that you can click on to create a new repository like this:
 
-![img](https://s3.amazonaws.com/after-school-assets/new_github_repo.jpg)
+  ![img](https://s3.amazonaws.com/after-school-assets/new_github_repo.jpg)
 
-6. Name the repository with the same name as your local directory. If this is your personal portfolio, site or blog and the first site you are publishing with gh-pages you probably want to name it like this `<github username>.github.io`. GitHub has reserved this namespace for your own personal GitHub homepage. Keep it public, no need to add a README - click on "Create repository".
+6. Name the repository with the same name as your local directory. If this is the first site you are publishing with `gh-pages` you probably want to name it like this `<github username>.github.io`. GitHub has reserved this namespace for your own personal GitHub homepage.
+
+  Keep it public, no need to add a README - click on "Create repository".
 
 ### Pushing up the work from your computer to GitHub
 
