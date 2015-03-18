@@ -54,13 +54,10 @@ There is one other thing that we need to do before our work will be available to
 9. To push up your new gh-pages branch to GitHub type `git push origin gh-pages `
 
 10. Go to GitHub and refresh the page. You should see a new branch available in the dropdown menu of branches.
-
-  ![img](https://s3.amazonaws.com/after-school-assets/gh-pages-branch.png)
+![img](https://s3.amazonaws.com/after-school-assets/gh-pages-branch.png)
 
 11. If you click on the repo settings - in the right nav bar - and scroll down to GitHub Pages you should see something like this:
-
-  ![img](https://s3.amazonaws.com/after-school-assets/gh-pages-url.png)
-
+![img](https://s3.amazonaws.com/after-school-assets/gh-pages-url.png)
 With the url where you can see your published site.
 
 ## CONGRATS! You are published. Check out your site.
