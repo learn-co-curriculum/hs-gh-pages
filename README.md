@@ -45,25 +45,22 @@ Now that you have a remote repository set up you just need to push up the work i
   Copy those two lines of code and paste them into your terminal. Hit enter to push up your code. Now go back to GitHub and refresh your page. You’ve got code!
 
 ### Creating a gh-pages branch
-There is one other thing that we need to do before our work will be available to the public.
-In your terminal when you initialized your git repository you initialized it on a `master` branch. GitHub only publishes work that is on a gh-pages branch.
+There is one other thing that we need to do before our work will be available to the public. In your terminal when you initialized your git repository you initialized it on a `master` branch. GitHub only publishes work that is on a `gh-pages` branch.
 
-8. Type the following command into your terminal to create a new gh-pages branch:
-```
-git checkout -b gh-pages
-```
-The -b stands for branch. This command will create a new branch called gh-pages and checkout that branch - or move you onto that branch.
+8. Type the following command into your terminal to create a new gh-pages branch: `git checkout -b gh-pages`
 
-9. To push up your new gh-pages branch to GitHub type
-```
-git push origin gh-pages
-```
+  The -b stands for branch. This command will create a new branch called gh-pages and checkout that branch - or move you onto that branch.
+
+9. To push up your new gh-pages branch to GitHub type `git push origin gh-pages `
 
 10. Go to GitHub and refresh the page. You should see a new branch available in the dropdown menu of branches.
-![img](https://s3.amazonaws.com/after-school-assets/gh-pages-branch.png)
+
+  ![img](https://s3.amazonaws.com/after-school-assets/gh-pages-branch.png)
 
 11. If you click on the repo settings - in the right nav bar - and scroll down to GitHub Pages you should see something like this:
-![img](https://s3.amazonaws.com/after-school-assets/gh-pages-url.png)
+
+  ![img](https://s3.amazonaws.com/after-school-assets/gh-pages-url.png)
+
 With the url where you can see your published site.
 
 ## CONGRATS! You are published. Check out your site.
