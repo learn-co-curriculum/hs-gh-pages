@@ -39,8 +39,10 @@ In order to publish your website you'll need to set up a repository on GitHub to
 Now that you have a remote repository set up you just need to push up the work in the local directory on your computer up to the remote repository on GitHub.
 
 7. When you created your GitHub repository you should have been redirected to a page for quick set up. Look for this section:
+
 ![img](https://s3.amazonaws.com/after-school-assets/connecting-remote-github-repo.png)
-and those two lines of code and paste them into your terminal. Hit enter to push up your code. Now go back to github and refresh your page. You’ve got code!
+
+  Copy those two lines of code and paste them into your terminal. Hit enter to push up your code. Now go back to GitHub and refresh your page. You’ve got code!
 
 ### Creating a gh-pages branch
 There is one other thing that we need to do before our work will be available to the public.
