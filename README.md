@@ -61,8 +61,10 @@ There is one other thing that we need to do before our work will be available to
 
   ![img](https://s3.amazonaws.com/after-school-assets/gh-pages-url.png)
 
-With the url where you can see your published site.
+That is the url that everyone can use to see your published site.
 
-## CONGRATS! You are published. Check out your site.
+## CONGRATS!
+
+### You are published. Go check out your site.
 
 You are free to keep making changes to your site and you can publish them by committing your work - by adding, committing and pushing up with `git push origin gh-pages`.
