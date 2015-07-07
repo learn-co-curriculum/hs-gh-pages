@@ -1,11 +1,11 @@
 tags:
   - kids
-  - git
-  - github
-  - gh_pages
-  - deploying
+  - front_end
+  - gh-pages
+  - deploy
 languages:
-  - git
+  - html
+  - css
 level: 1
 type:
   - Intro
