@@ -1,9 +1,4 @@
----
-tags: kids, front end, gh-pages, deploy
-languages: html, css
-level: 1
-type: Intro, Documentation
----
+
 
 ## Deploying with GitHub Pages
 
