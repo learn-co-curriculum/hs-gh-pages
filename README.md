@@ -63,3 +63,5 @@ That is the url that everyone can use to see your published site.
 ### You are published. Go check out your site.
 
 You are free to keep making changes to your site and you can publish them by committing your work - by adding, committing and pushing up with `git push origin gh-pages`.
+
+<a href='https://learn.co/lessons/hs-gh-pages' data-visibility='hidden'>View this lesson on Learn.co</a>
